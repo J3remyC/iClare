@@ -504,7 +504,7 @@ img{
 
 #footer
 {
-  padding: 100px;
+  padding: 100px 20px;
   background: var(--maroon);
   color: var(--light);
 }
